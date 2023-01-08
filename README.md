@@ -1,4 +1,5 @@
 # MACHINE-LEARNING-TRAININGS
-Here are my trainings of Python and Machine Learning from maktabkhoone tutorials, 
-:D
-, Tutor : Jadi Mir Mirani
+Hello everyone,
+Here are my projects related to machine learning tutorials presented by "maktabkhooneh.com" website and taught by Jadi Mirani.
+#machinelearning #supervisedlearning #classification #python
+@jadijadi
